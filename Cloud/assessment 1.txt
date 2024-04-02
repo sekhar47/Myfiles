@@ -1,0 +1,457 @@
+1.You have an application that is comprised of an Azure web app that has a Service Level Agreement (SLA) of 99.95 percent and an Azure SQL Database that has an SLA of 99.99 percent. The composite SLA for the application is 
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+A.the product of both SLAs, which equals to 99.94 percent
+
+
+B.the lowest SLA associated to the application, which is 99.95 percent
+
+Incorrect
+C.the highest SLA associated to the application, which is 99.99 percent
+
+
+D.the difference between the two SLAs, which is 0.05 percent.
+
+2.
+1 / 1 point
+A company like Hysteresis Pvt Ltd has 10 department to handle their IT infrastructure.
+
+The company plans to implement an Azure environment.
+
+You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?
+
+Your Answer: CorrectCorrect
+
+
+a reservation
+
+Correct
+a subscription
+
+
+a resource group
+
+
+a container group
+
+3.
+0 / 1 point
+An Azure service is available to all Azure customers when it is in
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+public preview
+
+
+private preview
+
+
+development
+
+Incorrect
+an Enterprise Agreement (EA) subscription
+
+4.
+0.5 / 1 point
+Match the term to the correct definition
+
+Your Answer: Partially correctPartially correct
+
+Incorrect 
+4
+ ⭢ 1
+Azure Government
+
+Correct 
+2
+GDPR
+
+Correct 
+3
+ISO
+
+Incorrect 
+1
+ ⭢ 4
+NIST
+
+A dedicated public cloud for federal and state agencies in the United States
+
+A European policy that regulates data privacy and data protection
+
+An organization that defines international standards across all industries
+
+An organization that defines standards used by the United States government
+
+5.
+1 / 1 point
+What is the purpose of version control in devops
+
+Your Answer: CorrectCorrect
+
+
+Test all external packages for compatibility
+
+
+Track new and changed features of the product 
+
+
+Limit the code to a particular programming language
+
+Correct
+Archive code and ensure that the changes to the code can be tracked
+
+6.
+1 / 1 point
+Which one of the following statements about DevOps is incorrect
+
+Your Answer: CorrectCorrect
+
+Correct
+DevOps is only suitable for startup companies
+
+
+DevOps is suitable for brownfield software products and services
+
+
+DevOps is suitable for greenfield software products and services
+
+
+Some of the most exemplary DevOps initiatives started in companies with giant and mature IT organizations
+
+7.
+0 / 1 point
+Which of the following statement best describes the goal of DevOps
+
+Your Answer: IncorrectIncorrect
+
+
+Establish an environment where the release of applications is valued more than its quality
+
+Incorrect
+Establish an environment where application development performs all the operation tasks
+
+Incorrect
+Establish an environment to release more reliable applications faster
+
+
+All Of The Above
+
+8.
+0 / 1 point
+Can you remove paused container from Docker
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+No
+
+Incorrect
+Yes
+
+
+Not Always
+
+
+Depends on what the container contains we are removing
+
+9.
+0 / 1 point
+Which of the following provides virtualized computing resources over the internet, without worrying about underlying physical machines and abstracting the user from the physical machine.
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+Infrastructure As A Service
+
+Incorrect
+Software As A Service
+
+
+Platform As A Service
+
+
+None of the Above
+
+10.
+1 / 1 point
+Which of the following hosting relies on companies to underutilize the resources meant to be used by its clients or customers?
+
+Your Answer: CorrectCorrect
+
+
+VPS Hosting
+
+Correct
+Shared Hosting
+
+
+Dedicated Hosting
+
+
+Cloud Services
+
+11.
+1 / 1 point
+What is the benefit for a developer using Docker?
+
+Your Answer: CorrectCorrect
+
+
+Standardization & Productivity
+
+
+CI Efficiency & Rapid Development
+
+
+Compatibility and Maintainability
+
+Correct
+All of these
+
+12.
+1 / 1 point
+Which of the following is a text document that contains all the commands a user could call on the command line to assemble an image?
+
+Your Answer: CorrectCorrect
+
+
+Docker Cloud
+
+
+Docker Hub
+
+
+Docker Kinematic
+
+Correct
+Dockerfile
+
+13.
+1 / 1 point
+Which are the below cloud platforms that are not used for DevOps?
+
+Your Answer: CorrectCorrect
+
+
+AWS (Amazon Web Services)
+
+
+Microsoft Azure
+
+
+GCP (Google Cloud Platform)
+
+Correct
+IBM Cloud
+
+14.
+0 / 1 point
+___________ command is used for stopping a running container gracefully
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+docker stop
+
+Incorrect
+docker kill
+
+
+docker rm
+
+
+docker start
+
+15.
+0 / 1 point
+How does DevOps impact security of an application or machine?
+
+Your Answer: IncorrectIncorrect
+
+
+Security is increased by including it earlier in the process
+
+
+Security is increased because of the automation process
+
+Incorrect
+Security is reduced because of the automation process.
+
+Incorrect
+Both (A) and (B)
+
+16.
+1 / 1 point
+What is the use of GIT
+
+Your Answer: CorrectCorrect
+
+
+Containerization Tool
+
+
+Continuous Integration Tool
+
+Correct
+Version Control System Tool
+
+
+Continuous Monitoring Tool
+
+17.
+1 / 1 point
+DevOps is an extension of 
+
+Your Answer: CorrectCorrect
+
+
+Waterfall
+
+
+Quality Assurance
+
+Correct
+Agile
+
+
+None of these
+
+18.
+1 / 1 point
+In Azure, you can associate network security group (NSG) to a virtual network subnet.
+
+Your Answer: CorrectCorrect
+
+Correct
+True
+
+
+False
+
+19.
+1 / 1 point
+Your Azure environment contains multiple Azure Virtual Machines.
+
+You need to ensure that a virtual machine named in VM1 is accessible from the internet over HTTP.
+
+Solution :- You modify an Azure Traffic Manager profile.
+
+Does this meet the goal?
+
+Your Answer: CorrectCorrect
+
+
+True
+
+Correct
+False
+
+20.
+0 / 1 point
+If a resource group named RG1 has a delete lock, _________________________________ can delete RG1.
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+only a member of the global administrators group
+
+Incorrect
+the delete lock must be removed before an administrator
+
+
+an Azure policy must be modified before an administrator
+
+
+an Azure tag must be added before an administrator
+
+21.
+1 / 1 point
+You plan to deploy several Azure virtual machines.
+
+You need to control the ports that devices on the internet can use to access the virtual machines.
+
+What should you use?
+
+Your Answer: CorrectCorrect
+
+Correct
+a network security group (NSG)
+
+
+an Azure Active Directory (Azure AD) role
+
+
+an Azure Active Directory group
+
+
+an Azure key vault
+
+22.
+1 / 1 point
+You cant create multiple containers from the same image in docker
+
+Your Answer: CorrectCorrect
+
+
+not always
+
+
+images are used to create docker
+
+
+true
+
+Correct
+false
+
+23.
+0 / 1 point
+Azure Cosmos DB is an example of a _____________ offering.
+
+Your Answer: IncorrectIncorrect
+
+Incorrect
+Platform As A Service (PAAS)
+
+
+Software As A Service (SAAS)
+
+Incorrect
+Serverless
+
+
+Infrastructure As A Service
+
+24.
+1 / 1 point
+You plan to deploy several Azure virtual machines
+
+You need to ensure that the services running on the virtual machines are available if a single data center fails
+
+Solution: You deploy the virtual machines to two or more availability zones
+
+Does this meet your goal
+
+Your Answer: CorrectCorrect
+
+
+No
+
+Correct
+Yes
+
+25.
+1 / 1 point
+You can create a resource group inside another resource group
+
+Your Answer: CorrectCorrect
+
+Correct
+No
+
+
+Yes
